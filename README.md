@@ -10,4 +10,3 @@ Once executed, the project will be ready to compile, your code can be written in
 This program can be compiled with any C/C++ compiler.
 
 The resulting project will be compilable with CMake. Most IDEs can build the project out-of-the-box. 
-If not, a build.sh script can be added to the project folder by adding "-b" to the end of the command.
